@@ -10,6 +10,6 @@ class Todo extends Model
     use HasFactory;
     protected $fillable=
     [
-        'task-list'
+        'name',
     ];
 }
