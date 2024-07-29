@@ -12,6 +12,7 @@
 
         <!-- Styles -->
         @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+        @vite(['resources/css/styles.css'])
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
      <div id="app">

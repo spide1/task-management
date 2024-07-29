@@ -1,0 +1,40 @@
+body.light {
+    background-color: white;
+    color: black;
+  }
+  
+  body.dark {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .card.light {
+    background-color: white;
+    color: black;
+  }
+  
+  .card.dark {
+    background-color: #495057;
+    color: white;
+  }
+  
+  .table-light {
+    background-color: white;
+    color: black;
+  }
+  
+  .table-dark {
+    background-color: #212529;
+    color: white;
+  }
+  
+  .btn-secondary.light {
+    background-color: #6c757d;
+    color: white;
+  }
+  
+  .btn-secondary.dark {
+    background-color: #adb5bd;
+    color: black;
+  }
+  
